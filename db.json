@@ -1,0 +1,71 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "first_name": "Sebastian",
+      "last_name": "Eschweiler",
+      "email": "sebastian@codingthesmartway.com",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "first_name": "Steve",
+      "last_name": "Palmer",
+      "email": "steve@codingthesmartway.com",
+      "password": "123"
+    },
+    {
+      "id": 3,
+      "first_name": "Ann",
+      "last_name": "Smith",
+      "email": "ann@codingthesmartway.com",
+      "password": "123"
+    },
+    {
+      "first_name": "dsf",
+      "last_name": "sdf",
+      "email": "sdf@gmail.com",
+      "password": "asdasd",
+      "confirmPassword": "",
+      "id": 4
+    },
+    {
+      "first_name": "jyoti",
+      "last_name": "df",
+      "email": "sdf@gmail.com",
+      "password": "erewrwerwe",
+      "id": 5
+    },
+    {
+      "first_name": "df",
+      "last_name": "sdf",
+      "email": "jyoti.jagtap@yash.com",
+      "password": "123456",
+      "id": 6
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 7
+    },
+    {
+      "first_name": "jyoti",
+      "last_name": "jagtap",
+      "email": "szdkskf",
+      "password": "kdsflkdsf",
+      "id": 8
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 9
+    },
+    {
+      "first_name": "tttttttttttttttttttttttt",
+      "last_name": "tttttttttttttttttttttttttttttttttttt",
+      "email": "ttttttt@gmail.com",
+      "password": "trytrytry",
+      "id": 10
+    }
+  ]
+}
