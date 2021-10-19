@@ -8,7 +8,10 @@ To get started, first install all the necessary dependencies.
 ```
 > npm install
 ```
-
+npm install axios --save
+npm uninstall node-sass && npm install node-sass
+npm install -g json-server
+json-server --watch db.json --port 3000
 Run an initial webpack build
 ```
 > webpack
